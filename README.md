@@ -1,78 +1,84 @@
-# 👋 Hi, I'm Rejaul Haque
+<div align="center">
+
+# 👋 Rejaul Haque
 
 ### 🏗️ Site Engineer | Civil Project Engineer
 
-Welcome to my GitHub profile!
+**Building Construction • Site Supervision • Quality Control • Project Management**
 
-I am a Civil Engineer with practical experience in building construction, site supervision, quality control, contractor coordination, manpower management, and finishing works.
+🇧🇩 Bangladesh
+
+📱 **+8801857969805**  
+📧 **engrejaulhaque@gmail.com**
+
+</div>
 
 ---
 
 ## 👨‍💼 About Me
 
-- 🏗️ **Profession:** Site Engineer / Civil Project Engineer
-- 🎓 **Education:** Diploma in Civil Engineering
-- 🏫 **Institute:** Rajshahi Polytechnic Institute
-- 📅 **Diploma Completed:** 2010
-- 💼 **Construction Experience:** 2016 – Present
-- 📍 **Country:** Bangladesh
+I am a **Civil Engineer** with practical experience in building construction, site supervision, quality control, contractor coordination, manpower management, and finishing works.
+
+I have experience working on both **government construction projects** and private building projects, with a strong focus on construction quality, site progress, workforce coordination, and successful project completion.
 
 ---
 
-## 💼 Work Experience
+## 💼 Professional Experience
 
 ### 🏢 Ajmeri Fashion
+
 **Site Engineer**  
 `2023 – Present`
 
-- Supervision of building construction activities
-- Structural and finishing work supervision
-- Contractor and manpower coordination
-- Quality control of construction works
-- Monitoring daily site progress
-- Supervision of tiles and painting works
-- Construction problem solving and site management
+- 🏗️ Supervision of building construction activities
+- 🧱 Structural and finishing work supervision
+- 👷 Contractor and manpower coordination
+- 🔍 Quality control of construction works
+- 📋 Monitoring daily site progress
+- 🎨 Supervision of tiles and painting works
+- 🛠️ Construction problem solving and site management
+
+---
 
 ### 🏢 Royal Construction
-**Site Engineer**  
+
+**Site Engineer — Government Construction Projects**  
 `2016 – 2023`
 
-**Government Construction Projects**
-
-- Supervised government construction projects
-- Monitored construction work according to drawings and specifications
-- Supervised civil and structural works
-- Managed workers and subcontractors
-- Checked construction materials and workmanship
-- Monitored daily project progress
-- Maintained construction quality and safety standards
+- 🏗️ Supervised government construction projects
+- 📐 Monitored construction according to drawings and specifications
+- 🧱 Supervised civil and structural works
+- 👷 Managed workers and subcontractors
+- 🔍 Checked construction materials and workmanship
+- 📊 Monitored daily project progress
+- 🦺 Maintained construction quality and safety standards
 
 ---
 
 ## 🎓 Education
 
 ### Diploma in Civil Engineering
+
 **Rajshahi Polytechnic Institute**
 
-**Department:** Civil Engineering  
-**Year:** 2010
+| Details | Information |
+|---|---|
+| Department | Civil Engineering |
+| Qualification | Diploma in Engineering |
+| Completed | 2010 |
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Core Skills
 
-- 🏗️ Building Construction
-- 📐 Site Supervision
-- 🧱 RCC & Structural Works
-- 🏠 Foundation & Building Works
-- 👷 Manpower Management
-- 🤝 Contractor Coordination
-- 🔍 Quality Control
-- 📋 Site Progress Monitoring
-- 🧱 Masonry & Plastering
-- 🎨 Painting Work
-- 🔲 Tiles Work
-- 📊 Construction Management
+| 🏗️ Construction | 👷 Management |
+|---|---|
+| Building Construction | Manpower Management |
+| RCC & Structural Works | Contractor Coordination |
+| Foundation Work | Site Management |
+| Masonry & Plastering | Project Progress Monitoring |
+| Tiles Work | Quality Control |
+| Painting Work | Construction Management |
 
 ---
 
@@ -93,22 +99,21 @@ I am a Civil Engineer with practical experience in building construction, site s
 
 ## 🌐 Languages
 
-- 🇧🇩 **Bangla** — Native
-- 🇬🇧 **English** — Working Proficiency
+🇧🇩 **Bangla** — Native
+
+🇬🇧 **English** — Working Proficiency
 
 ---
 
-## 📫 Contact Me
+## 📊 Professional Profile
 
-📱 **Mobile:** +8801857969805  
-📧 **Email:** engrejaulhaque@gmail.com
-
----
-
-## 🚀 Professional Goal
-
-> To work as a professional Civil/Site Engineer where I can utilize my construction experience, technical knowledge, leadership skills, and site management capabilities to contribute to successful project completion.
-
----
-
-⭐ **Thank you for visiting my profile!**
+```text
+Civil Engineering Experience       2016 – Present
+Building Construction              ✓
+Site Supervision                   ✓
+Structural Works                   ✓
+Finishing Works                    ✓
+Quality Control                    ✓
+Contractor Coordination            ✓
+Manpower Management                ✓
+Project Site Management            ✓
