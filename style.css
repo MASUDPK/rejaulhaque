@@ -40,6 +40,8 @@ body {
 
 /* PHOTO */
 
+/* ================= PHOTO ================= */
+
 .photo-box {
     width: 145px;
     min-width: 145px;
@@ -54,18 +56,21 @@ body {
 }
 
 .photo-box img {
-
     width: 105px;
     height: 135px;
 
     object-fit: cover;
 
-    border: 2px solid #333;
+    /* Rounded corners */
+    border-radius: 18px;
+
+    /* Light black border */
+    border: 2px solid #555;
 
     background: white;
+
+    display: block;
 }
-
-
 /* HEADER TEXT */
 
 .header-info {
