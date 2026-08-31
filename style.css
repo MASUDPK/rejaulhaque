@@ -1,1 +1,572 @@
-style
+/* =========================================
+   REJAUL HAQUE CV
+   Modern Professional CV Design
+========================================= */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #dfe5e6;
+    color: #252525;
+    line-height: 1.55;
+}
+
+
+/* ================= CV ================= */
+
+.cv {
+    width: 210mm;
+    min-height: 297mm;
+    margin: 25px auto;
+    background: white;
+    box-shadow: 0 5px 25px rgba(0,0,0,0.15);
+}
+
+
+/* ================= HEADER ================= */
+
+.header {
+    display: flex;
+    min-height: 145px;
+    background: #205b64;
+    color: white;
+}
+
+
+/* PHOTO */
+
+.photo-box {
+    width: 145px;
+    min-width: 145px;
+
+    background: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 10px;
+}
+
+.photo-box img {
+
+    width: 105px;
+    height: 135px;
+
+    object-fit: cover;
+
+    border: 2px solid #333;
+
+    background: white;
+}
+
+
+/* HEADER TEXT */
+
+.header-info {
+    padding: 30px 30px;
+}
+
+.header-info h1 {
+
+    font-size: 34px;
+
+    text-transform: uppercase;
+
+    letter-spacing: 1px;
+
+    margin-bottom: 5px;
+}
+
+.header-info h2 {
+
+    font-size: 17px;
+
+    font-weight: normal;
+
+    margin-bottom: 12px;
+}
+
+.header-info p {
+
+    font-size: 12px;
+
+    opacity: 0.95;
+}
+
+
+/* ================= CONTACT ================= */
+
+.contact {
+
+    display: grid;
+
+    grid-template-columns:
+        1fr 1.2fr 1.5fr;
+
+    background: #eef2f2;
+
+    border-bottom: 1px solid #ccd4d5;
+}
+
+.contact div {
+
+    padding: 10px 12px;
+
+    border-right: 1px solid #ccd4d5;
+
+    font-size: 10px;
+}
+
+.contact span {
+
+    font-size: 15px;
+
+    margin-right: 5px;
+}
+
+
+/* ================= CONTENT ================= */
+
+.content {
+
+    display: grid;
+
+    grid-template-columns: 32% 68%;
+}
+
+
+/* ================= LEFT ================= */
+
+.left-column {
+
+    background: #f1f3f3;
+
+    padding: 20px 18px;
+
+    border-right: 1px solid #ccd4d5;
+}
+
+
+/* ================= RIGHT ================= */
+
+.right-column {
+
+    padding: 20px 25px;
+}
+
+
+/* ================= SECTION ================= */
+
+section {
+
+    margin-bottom: 22px;
+}
+
+section h3 {
+
+    color: #205b64;
+
+    font-size: 14px;
+
+    letter-spacing: 1px;
+
+    border-bottom: 2px solid #205b64;
+
+    padding-bottom: 5px;
+
+    margin-bottom: 10px;
+}
+
+section p {
+
+    font-size: 10.5px;
+
+    margin-bottom: 8px;
+}
+
+
+/* ================= SKILLS ================= */
+
+.skill-list {
+
+    list-style: none;
+}
+
+.skill-list li {
+
+    font-size: 10px;
+
+    padding: 5px 0;
+
+    border-bottom: 1px solid #d9dede;
+}
+
+.skill-list li::before {
+
+    content: "✓";
+
+    color: #205b64;
+
+    font-weight: bold;
+
+    margin-right: 7px;
+}
+
+
+/* ================= LANGUAGE ================= */
+
+.language {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    padding: 7px 0;
+
+    border-bottom: 1px solid #d9dede;
+
+    font-size: 10px;
+}
+
+.language span {
+
+    color: #666;
+}
+
+
+/* ================= EXPERIENCE ================= */
+
+.experience {
+
+    position: relative;
+
+    padding-left: 18px;
+
+    margin-bottom: 20px;
+
+    border-left: 3px solid #205b64;
+}
+
+.company h4 {
+
+    font-size: 14px;
+
+    color: #222;
+
+    margin-bottom: 3px;
+}
+
+.position {
+
+    display: block;
+
+    font-size: 10px;
+
+    font-weight: bold;
+
+    color: #205b64;
+}
+
+.date {
+
+    display: inline-block;
+
+    margin-top: 4px;
+
+    font-size: 9px;
+
+    background: #eef2f2;
+
+    padding: 3px 8px;
+
+    border-radius: 10px;
+}
+
+.experience ul {
+
+    margin-top: 8px;
+
+    padding-left: 16px;
+}
+
+.experience li {
+
+    font-size: 9.8px;
+
+    margin-bottom: 4px;
+}
+
+
+/* ================= EDUCATION ================= */
+
+.education {
+
+    display: flex;
+
+    gap: 15px;
+
+    padding: 12px;
+
+    background: #eef2f2;
+
+    border-left: 4px solid #205b64;
+}
+
+.education .year {
+
+    font-size: 13px;
+
+    font-weight: bold;
+
+    color: #205b64;
+
+    min-width: 40px;
+}
+
+.education h4 {
+
+    font-size: 13px;
+
+    margin-bottom: 3px;
+}
+
+.education p {
+
+    margin: 2px 0;
+
+    font-size: 9.5px;
+}
+
+
+/* ================= TECHNICAL ================= */
+
+.technical-grid {
+
+    display: grid;
+
+    grid-template-columns: 1fr 1fr;
+
+    gap: 7px;
+}
+
+.technical-grid span {
+
+    background: #f1f3f3;
+
+    border: 1px solid #d7dede;
+
+    padding: 7px;
+
+    font-size: 9.5px;
+
+    border-radius: 3px;
+}
+
+
+/* ================= PROFILE ================= */
+
+.profile-box {
+
+    border: 1px solid #ccd4d5;
+}
+
+.profile-box div {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    padding: 7px 10px;
+
+    border-bottom: 1px solid #e0e4e4;
+
+    font-size: 9.5px;
+}
+
+.profile-box div:last-child {
+
+    border-bottom: none;
+}
+
+.profile-box span {
+
+    color: #205b64;
+
+    font-weight: bold;
+}
+
+
+/* ================= FOOTER ================= */
+
+footer {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    padding: 15px 20px;
+
+    background: #205b64;
+
+    color: white;
+
+    font-size: 9px;
+}
+
+footer button {
+
+    background: white;
+
+    color: #205b64;
+
+    border: none;
+
+    padding: 8px 15px;
+
+    border-radius: 4px;
+
+    cursor: pointer;
+
+    font-weight: bold;
+}
+
+footer button:hover {
+
+    background: #e7eeee;
+}
+
+
+/* ================= MOBILE ================= */
+
+@media (max-width: 800px) {
+
+    body {
+        background: white;
+    }
+
+    .cv {
+
+        width: 100%;
+
+        margin: 0;
+
+        box-shadow: none;
+    }
+
+    .header {
+
+        min-height: auto;
+
+        flex-direction: column;
+
+        align-items: center;
+
+        text-align: center;
+    }
+
+    .photo-box {
+
+        width: 100%;
+
+        min-width: 100%;
+
+        padding: 15px;
+    }
+
+    .header-info {
+
+        padding: 20px;
+    }
+
+    .header-info h1 {
+
+        font-size: 27px;
+    }
+
+    .contact {
+
+        grid-template-columns: 1fr;
+    }
+
+    .contact div {
+
+        border-right: none;
+
+        border-bottom: 1px solid #ccd4d5;
+    }
+
+    .content {
+
+        grid-template-columns: 1fr;
+    }
+
+    .left-column {
+
+        border-right: none;
+
+        border-bottom: 1px solid #ccd4d5;
+    }
+
+    .right-column {
+
+        padding: 20px 18px;
+    }
+
+    .technical-grid {
+
+        grid-template-columns: 1fr;
+    }
+
+    footer {
+
+        flex-direction: column;
+
+        gap: 12px;
+
+        text-align: center;
+    }
+
+}
+
+
+/* ================= PRINT ================= */
+
+@media print {
+
+    body {
+
+        background: white;
+    }
+
+    .cv {
+
+        width: 210mm;
+
+        min-height: 297mm;
+
+        margin: 0;
+
+        box-shadow: none;
+    }
+
+    footer button {
+
+        display: none;
+    }
+
+    @page {
+
+        size: A4;
+
+        margin: 0;
+    }
+
+}
